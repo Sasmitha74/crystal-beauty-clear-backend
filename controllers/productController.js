@@ -109,3 +109,6 @@ export function updateProduct(req,res){
         }
     )
 }
+// export function getProduct(req,res){
+//     Product.findOne({
+//         productId : req.params.productId
